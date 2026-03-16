@@ -150,17 +150,6 @@ Main functions:
 
 ---
 
-## Applications
-
-This tool can be used for:
-
-* Wireless communication coursework
-* RF link budget analysis
-* Telecommunications system design
-* Educational demonstrations of wireless channel capacity
-
----
-
 ## License
 
 This project is released under the **MIT License**.
